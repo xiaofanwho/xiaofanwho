@@ -1,6 +1,6 @@
 # Hi, I'm Xiaofan Hu 👋
 
-Data Engineer | Cloud Architect | Data Platform Engineer
+Data Engineer | Cloud Architect | Data Platform Engineer | AI Agentic Engineer
 
 I enjoy building scalable cloud-native data platforms from the ground up. Throughout my career, I've designed production-grade data lakes, real-time data pipelines, and analytics platforms across multiple industries including energy, insurance, and industrial IoT.
 
