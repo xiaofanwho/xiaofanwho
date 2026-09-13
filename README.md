@@ -2,7 +2,7 @@
 
 Data Engineer | Cloud Architect | Data Platform Engineer | AI Agentic Engineer
 
-[LinkedIn](https://www.linkedin.com/in/xiaofan-hu/)
+[LinkedIn](https://www.linkedin.com/in/xiaofan-hu/) • [Google Developer](https://me.developers.google.com/u/xiaofanhu) • [Upwork](https://www.upwork.com/freelancers/~01c3d19b388e87410d?viewMode=1)
 
 I enjoy building scalable cloud-native data platforms from the ground up. Throughout my career, I've designed production-grade data lakes, real-time data pipelines, and analytics platforms across multiple industries including energy, insurance, and industrial IoT.
 
