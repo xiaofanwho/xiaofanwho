@@ -34,7 +34,7 @@ See [tech-stack.md](tech-stack.md) for the full breakdown, including detailed AW
 
 - [ASTC Travel Passport Museum Map](projects/asct-map.md) — parsed a 53-page PDF museum directory into clean, geocoded data and mapped it with Streamlit + Folium
 - [Conduit Power SCADA System on AWS](projects/power-scada.md) — led the AWS side of launching the first cloud-hosted SCADA system for renewable power plants in North America
-- [Sinkhole Detection at MicroSeismic (KarstAlert)](projects/microseismic-sinkhole.md) — helped adapt downhole microseismic technology into a real-time sinkhole early-warning system
+- [Sinkhole Detection at MicroSeismic (KarstAlert)](projects/microseismic-sinkhole.md) — helped built downhole microseismic technology, then adapt it into a real-time sinkhole early-warning system
 
 ---
 
