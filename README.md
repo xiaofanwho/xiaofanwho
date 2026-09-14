@@ -12,14 +12,10 @@ My passion is transforming complex data into reliable, maintainable, and automat
 
 ## 📈 Highlights
 
-- Built multiple production data lakes from **0 → 1**
-- Architected cloud data platforms serving billions of records
-- Designed production ETL pipelines processing high-volume daily workloads
-- Built real-time telemetry and streaming data solutions
-- Migrated enterprise data platforms to Snowflake + dbt
-- Developed cloud-native monitoring, alerting, and observability solutions
-- Automated infrastructure deployment using Terraform and CI/CD
-- Designed scalable batch and serverless processing architectures
+- Built multiple production data lakes from **0 → 1**, migrating enterprise platforms to Snowflake + dbt
+- Architected cloud data platforms serving billions of records, with ETL pipelines processing high-volume daily workloads
+- Designed scalable batch, serverless, and real-time streaming architectures for telemetry data
+- Automated infrastructure deployment and observability with Terraform, CI/CD, and cloud-native monitoring
 
 ---
 
