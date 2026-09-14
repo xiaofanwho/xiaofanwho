@@ -4,20 +4,9 @@ Data Engineer | Cloud Architect | Data Platform Engineer | AI Agentic Engineer
 
 [LinkedIn](https://www.linkedin.com/in/xiaofan-hu/) • [Google Developer](https://me.developers.google.com/u/xiaofanhu) • [Upwork](https://www.upwork.com/freelancers/~01c3d19b388e87410d?viewMode=1)
 
-I enjoy building scalable cloud-native data platforms from the ground up. Throughout my career, I've designed production-grade data lakes, real-time data pipelines, and analytics platforms across multiple industries including energy, insurance, and industrial IoT.
+I enjoy building scalable cloud-native data platforms from the ground up. Throughout my career, I've designed production-grade data lakes, real-time data pipelines, and analytics platforms across multiple industries including oil & gas, power, insurance, and travel.
 
 My passion is transforming complex data into reliable, maintainable, and automated systems — and unlocking it for AI applications to maximize its potential.
-
----
-
-## 🚀 What I Do
-
-- Design and build cloud-native data platforms and data lakes, from 0 → 1
-- Build large-scale ETL/ELT pipelines and real-time streaming systems
-- Design analytics & semantic layers for modern analytics engineering
-- Automate cloud infrastructure as code, and design distributed, workflow-automated systems
-- Apply AI-assisted approaches to data engineering
-- Optimize data reliability, quality, observability, and cost
 
 ---
 
@@ -36,9 +25,9 @@ My passion is transforming complex data into reliable, maintainable, and automat
 
 ## ☁️ Cloud & Data Stack
 
-**Cloud:** AWS • GCP • Azure
-**Data Platform:** dbt • Snowflake • Redshift • BigQuery • Airflow
-**Languages:** Python • SQL • Terraform • Bash
+**Cloud:** AWS • GCP • Azure  
+**Data Platform:** dbt • Snowflake • Redshift • BigQuery • Airflow  
+**Languages:** Python • SQL • Terraform • Bash  
 **DevOps:** Docker • Git • GitHub Actions • CI/CD • Linux
 
 See [tech-stack.md](tech-stack.md) for the full breakdown, including detailed AWS services.
