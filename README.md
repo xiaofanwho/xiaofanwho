@@ -43,7 +43,7 @@ See [tech-stack.md](tech-stack.md) for the full breakdown, including detailed AW
 - [AWS Certified AI Practitioner](https://www.credly.com/badges/c21e7915-e862-487b-8af6-b44b4f683953/public_url)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/b0e132e6-c360-4e63-9a55-d4c2d4e818b5/linked_in_profile)
 - [Google Project Management](https://www.coursera.org/account/accomplishments/specialization/8ZDEVEKJQSFN)
-- IBM Python Data Science
+- [IBM Python Data Science](https://credentials.edx.org/credentials/58645ee73ceb43029d899e4d67f4433c/)
 
 ---
 
